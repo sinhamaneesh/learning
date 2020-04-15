@@ -1,3 +1,5 @@
 - This is my first file to create
 
-=> Now, I'm aditing this file to test..
+=> Now, I'm editing this file to test..
+
+=> Now, I'm editing this file SECOND times..
